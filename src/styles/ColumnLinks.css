@@ -1,0 +1,9 @@
+.leftcolumn {
+    float: left;
+    width: 75%;
+}
+
+.rightcolumn {
+    float: right;
+    width: 20%;
+}

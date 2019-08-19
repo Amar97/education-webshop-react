@@ -1,0 +1,39 @@
+
+.navigation-container {
+
+    width: 100%;
+    height: 60px;
+    background-color: #1a1a1a;
+    color: aliceblue;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+
+.navigation-list {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+
+}
+
+
+.navigation-list li{
+    height: 100%;
+    padding: 0 20px;
+    border-right: 1px solid #bbb;
+}
+
+.navigation-list li:hover {
+    background-color: aliceblue;
+    color: black;
+}
+
+
