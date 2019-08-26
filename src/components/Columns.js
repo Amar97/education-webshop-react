@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-class ColumnLinks extends Component {
+class Columns extends Component {
 	render() {
 		return (
 			<div>
@@ -18,4 +18,4 @@ class ColumnLinks extends Component {
 	}
 }
 
-export default ColumnLinks;
+export default Columns;
